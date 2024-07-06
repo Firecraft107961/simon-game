@@ -184,7 +184,7 @@ function reset() {
     start.style.display = "block";
     simonPattern = [];
     position = 0;
-    level_data = 0;
+    level_data = 1;
     level.textContent = 'Tap anywhere to start.';
     document.getElementById('title').textContent = 'Game Over!';
 }
